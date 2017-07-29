@@ -60,10 +60,17 @@ List_Call: مشاهده تماس های برقرار شده
 
 
 <a href='http://webservice2017cloudcall.blogfa.com/post/1'>INFO REG - عضویت</a>
+
 <a href='http://webservice2017cloudcall.blogfa.com/post/2'>Open APP - باز کردن برنامه</a>
+
 <a href='http://webservice2017cloudcall.blogfa.com/post/3'>Login | Serial verify - لاگین در صورت خارج شدن یا تغییر سریال نامبر گوشی</a>
+
 <a href='http://webservice2017cloudcall.blogfa.com/post/4'>Update Name+Family+Meli آپدیت اطلاعات و شماره ملی</a>
+
 <a href='http://webservice2017cloudcall.blogfa.com/post/5'>Charge - نمایش میزان شارژ باقی مانده</a>
+
 <a href='http://webservice2017cloudcall.blogfa.com/post/6'>Call -تماس با مخاطب</a>
+
 <a href='http://webservice2017cloudcall.blogfa.com/post/7'>List_Call - مشاهده تاریخچه تماس</a>
+
 
